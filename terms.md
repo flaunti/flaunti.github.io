@@ -1,12 +1,12 @@
-# Terms of Service for Flaunti-Bot | EN
+# Terms of Service for AuroraAI | EN
 
-**Last Updated:** September 16, 2025
+**Last Updated:** September 17, 2025
 
 ## 1. Acceptance of Terms
-By using Flaunti-Bot ("the Bot"), you agree to be bound by these Terms of Service.
+By using AuroraAI ("the Bot"), you agree to be bound by these Terms of Service.
 
 ## 2. Description of Service
-Flaunti-Bot provides Discord server management features including:
+AuroraAI provides Discord server management features including:
 - Member join/leave tracking
 - Invite tracking and analytics
 - Moderation tools
@@ -51,15 +51,15 @@ For questions: danilaschepotkin@gmail.com
 
 
 
-# Пользовательское соглашение для Flaunti-Bot | RU
+# Пользовательское соглашение для AuroraAI | RU
 
-**Последнее обновление:** 16 сентября 2025
+**Последнее обновление:** 17 сентября 2025
 
 ## 1. Принятие условий
-Используя Flaunti-Bot ("Бот"), вы соглашаетесь с условиями настоящего Соглашения.
+Используя AuroraAI ("Бот"), вы соглашаетесь с условиями настоящего Соглашения.
 
 ## 2. Описание услуги
-Flaunti-Bot предоставляет функции управления Discord-сервером, включая:
+AuroraAI предоставляет функции управления Discord-сервером, включая:
 - Отслеживание присоединения/выхода участников
 - Мониторинг использования приглашений
 - Модерационные инструменты
