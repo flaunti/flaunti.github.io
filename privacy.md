@@ -1,6 +1,6 @@
-# Privacy Policy for Flaunti-Bot | EN
+# Privacy Policy for AuroraAI | EN
 
-**Last Updated:** September 16, 2025
+**Last Updated:** September 17, 2025
 
 ## 1. Information We Collect
 
@@ -64,9 +64,9 @@ Privacy questions: danilaschepotkin@gmail.com
 
 
 
-# Политика конфиденциальности для Flaunti-Bot | RU
+# Политика конфиденциальности для AuroraAI | RU
 
-**Последнее обновление:** 16 сентября 2025
+**Последнее обновление:** 17 сентября 2025
 
 ## 1. Информация, которую мы собираем
 
